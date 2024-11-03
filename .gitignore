@@ -1,0 +1,4 @@
+config.ts
+*.env
+.env
+.env.local
